@@ -73,6 +73,7 @@ class _HomePageState extends State<HomePage> {
   }
 }
 
+
 // ---------------- HEADER ----------------
 class HeaderSection extends StatefulWidget {
   final ScrollController scrollController;
